@@ -1,5 +1,5 @@
 <p align ="center">
   ================================== <br>
-  <strong>Salut</strong> <br> 
+  <emp>Salut</emp> <br> 
   =================================
 </p>
